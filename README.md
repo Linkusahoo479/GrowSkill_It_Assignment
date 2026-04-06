@@ -18,7 +18,7 @@ This repository contains a collection of:
 It demonstrates **strong fundamentals in programming and software testing**, making it suitable for **QA / SDET / Software roles**.
 
 🔗 **GitHub Repo:**  
-https://github.com/Linkusahoo479/GrowSkill_It_Assignment
+https://github.com/soumyaranjan-sahoo5/GrowSkill_It_Assignment
 
 ---
 

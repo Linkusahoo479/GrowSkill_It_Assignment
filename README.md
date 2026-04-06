@@ -122,32 +122,9 @@ User can access dashboard after logout using back button
 
 ---
 
-## 💻 Java Programming Section
-
-### 🔹 Week 3
-- Type Casting (Float → Double → Int → Char)  
-- ASCII Character Conversion  
-
-### 🔹 Week 4
-- Fibonacci Series (with break condition)  
-- Prime Factor Finder  
-- Digit Transformation Logic  
-
-### 🔹 Week 5
-- Second Smallest Element *(In Progress)*  
 
 ---
 
-## 🛠️ Tech Stack
-
-- Java  
-- Manual Testing  
-- Problem Solving  
-
----
-
-## ▶️ How to Run 
----
 
 ## 📈 Skills Demonstrated
 

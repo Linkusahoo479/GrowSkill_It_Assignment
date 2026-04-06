@@ -1,4 +1,4 @@
-# 🚀 Java & Manual Testing Portfolio
+# 🚀 Java & Manual Testing Assignment
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![Testing](https://img.shields.io/badge/Testing-Manual-green)
